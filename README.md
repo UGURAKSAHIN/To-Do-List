@@ -18,7 +18,7 @@ A simple and useful to-do list application. Users can add tasks, mark them as co
 
 # Installation and Running
 
-- git clone https://github.com/UGURAKSAHIN/todo-list-app.git
+- git clone https://github.com/UGURAKSAHIN/To-Do-List.git
 
 # ScreenShot
 ![Uploading To-Do-List-ScreenShot.png…]()
