@@ -21,7 +21,8 @@ A simple and useful to-do list application. Users can add tasks, mark them as co
 - git clone https://github.com/kullanici-adi/todo-list-app.git
 
 # ScreenShot
-[Uploading To-Do List App.url…]()
+![Uploading To-Do-List-ScreenShot.png…]()
+
 
 # Licence
 This project is open source. You can use and develop it as you wish.
